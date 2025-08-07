@@ -2,8 +2,6 @@
 
 A simple Python tool to decode and encode F5 BIG-IP persistence cookies.
 
-<img width="724" height="143" alt="image" src="https://github.com/user-attachments/assets/60d25cfc-2c1e-4ae7-8a11-11447e84d1a3" />
-
 ## Usage
 
 **Interactive mode:**
